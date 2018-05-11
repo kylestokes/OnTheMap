@@ -10,6 +10,7 @@ On the Map uses built-in Swift libraries for networking:
 
 ## Frameworks
 * [MapKit](https://developer.apple.com/documentation/mapkit)
+* [Dispatch](https://developer.apple.com/documentation/DISPATCH)
 * [SafariServices](https://developer.apple.com/documentation/safariservices)
 * [UIKit](https://developer.apple.com/documentation/uikit)
 
@@ -17,17 +18,12 @@ On the Map uses built-in Swift libraries for networking:
 On the Map uses Udacity's Parse server to authenticate students and an in-house Udacity web API to GET, POST, and PUT student information. 
 
 ## Screenshots
-![alt text](/Screenshots/login.png)
-</br>
-![alt text](/Screenshots/map.png)
-<br />
-![alt text](/Screenshots/table.png)
-<br>
-![alt text](/Screenshots/ispentmoney.png)
-</br>
-![alt text](/Screenshots/add.png)
-</br>
-![alt text](/Screenshots/new.png)
-<br/>
+<img width="404" alt="new" src="/Screenshots/login.png ">
+<img width="404" alt="new" src="/Screenshots/map.png ">
+<img width="404" alt="new" src="/Screenshots/table.png ">
+<img width="404" alt="new" src="/Screenshots/ispentmoney.png ">
+<img width="404" alt="new" src="/Screenshots/add.png ">
+<img width="404" alt="new" src="/Screenshots/new.png ">
+
 ___
 This is my third project for the Udacity iOS Developer [Nanodegree](https://www.udacity.com/course/ios-developer-nanodegree--nd003).
